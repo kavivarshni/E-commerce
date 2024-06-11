@@ -23,7 +23,7 @@ const Browse = () => {
           setListOfRes(filteredRes);
         }}
       >
-        FILTER
+        FILTERR
       </button>
       <div className="wrapp">
         {listOfRes.map((res) => (
